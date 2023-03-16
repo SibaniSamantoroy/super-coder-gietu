@@ -1,0 +1,15 @@
+Day 1
+Python is dynamically typed
+Python is a object
+
+Datatypes
+#datatypes
+name="sibani"
+print("name",name,type(name))  #   name sibani class<str>
+complex datatype
+student_y_no = true #boolean
+complex=3+5j
+print(complex)
+end="" -- prints i the same line
+pass is used for empty statements
+whenever we have print() is sending to the output console 
